@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
 import {Grid, GridItem, Show} from "@chakra-ui/react";
 import NavBar from "./component/NavBar";
