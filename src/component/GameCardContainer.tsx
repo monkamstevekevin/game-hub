@@ -5,7 +5,7 @@ import {Box} from "@chakra-ui/react";
  }
 const GameCardContainer = ({children}: props) => {
     return (
-       <Box width= '300px' borderRadius="10px" overflow="hidden">
+       <Box width= '100%' borderRadius="10px" overflow="hidden">
            {children}
        </Box>
     )
