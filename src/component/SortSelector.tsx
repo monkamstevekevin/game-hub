@@ -1,6 +1,7 @@
 import React from 'react'
 import {Button, Menu, MenuButton, MenuItem, MenuList} from "@chakra-ui/react";
 import {BsChevronDown} from "react-icons/bs";
+
 interface prop{
     onselectSortOrder: (sortOrder: string) => void,
     sortOrder: string
